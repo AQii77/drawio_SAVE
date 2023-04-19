@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T13:31:14.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.9" etag="futFlwcMHVyd_noH0C59" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T13:59:12.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="v85kE3g-FLOYYb8UiMF1" version="21.1.9" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel>
+    <mxGraphModel dx="865" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-1" target="XHYiGmg5JfkTDbJsNiU6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-1" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-2" target="XHYiGmg5JfkTDbJsNiU6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-8" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-5">
+          <mxGeometry x="0.2986" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-2" target="XHYiGmg5JfkTDbJsNiU6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-9" value="训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-7">
+          <mxGeometry x="0.3641" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-2" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-4" target="XHYiGmg5JfkTDbJsNiU6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-4" value="配置信息初始化&lt;br&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-6" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-10" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
