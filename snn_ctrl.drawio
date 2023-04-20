@@ -1,44 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T03:57:11.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="VGs-clJSJ8wNK8tB1pzW" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T07:31:23.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0aDlslCxIhzGRJG0uHcO" version="21.1.9" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
     <mxGraphModel dx="1573" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-1" target="XHYiGmg5JfkTDbJsNiU6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-1" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-2" target="XHYiGmg5JfkTDbJsNiU6-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-2" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-14" target="XHYiGmg5JfkTDbJsNiU6-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-16" target="XHYiGmg5JfkTDbJsNiU6-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-18" target="XHYiGmg5JfkTDbJsNiU6-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-18" target="XHYiGmg5JfkTDbJsNiU6-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="745" />
+              <mxPoint x="400" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-18" value="记录发放神经元序号&lt;br&gt;向WEIGHT_MEM&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="700" width="120" height="90" as="geometry" />
+          <mxGeometry x="223" y="700" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-20" target="XHYiGmg5JfkTDbJsNiU6-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="283" y="940" />
+              <mxPoint x="530" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-20" value="将提取到相应的神经元info传递给STDP 执行ON_PRE计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="223" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-22" target="XHYiGmg5JfkTDbJsNiU6-24">
           <mxGeometry relative="1" as="geometry" />
@@ -55,11 +71,19 @@
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-26" target="XHYiGmg5JfkTDbJsNiU6-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-26" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-26" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-28" target="XHYiGmg5JfkTDbJsNiU6-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-28" target="XHYiGmg5JfkTDbJsNiU6-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="450" />
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-28" value="记录发放神经元序号&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向WEIGHT_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRACE_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="120" height="100" as="geometry" />
@@ -80,40 +104,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-37" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-39" target="XHYiGmg5JfkTDbJsNiU6-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-39" value="脉冲神经元涉及部分复位以及神经元、突触参数的decay指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-41" target="XHYiGmg5JfkTDbJsNiU6-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-41" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-45" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-47" target="XHYiGmg5JfkTDbJsNiU6-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-47" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49" target="XHYiGmg5JfkTDbJsNiU6-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="945" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-49" value="向normalize模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1004" y="990" />
+              <mxPoint x="120" y="990" />
+              <mxPoint x="120" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-51" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="944" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-54" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
