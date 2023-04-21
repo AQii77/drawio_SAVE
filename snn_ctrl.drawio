@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T02:51:16.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fD0Zu6aafeVNSfQpKpsn" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T03:21:32.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7KT6jU-S7H8UGTRdSp2j" version="21.2.0" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel dx="1730" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,8 +334,26 @@
         <mxCell id="ONLA1WShRm9VHiKbCH6p-56" value="接收SNN发放指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-57" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-57" target="ONLA1WShRm9VHiKbCH6p-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-57" value="根据指令信息执行PRE、POST计算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-59" target="ONLA1WShRm9VHiKbCH6p-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-59" value="提取trace、weight信息，并输入PE计算单元" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-61" target="ONLA1WShRm9VHiKbCH6p-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-61" value="返回计算后权重，并对权重执行钳位、更新前迹pre" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-63" value="等待一次指令" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
