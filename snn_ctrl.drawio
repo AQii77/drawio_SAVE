@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T03:45:06.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RK8uPMVTYdgpdKEAaiUI" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T02:14:50.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FwY6UIDTM3_HXs5XFSSh" version="21.2.1" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel dx="1018" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-63">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-63" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
             <mxPoint x="-70" as="offset" />
           </mxGeometry>
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-3" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-57">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-3" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-57" vertex="1" connectable="0">
           <mxGeometry x="-0.3386" y="1" relative="1" as="geometry">
             <mxPoint y="39" as="offset" />
           </mxGeometry>
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-4" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-59">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-4" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-59" vertex="1" connectable="0">
           <mxGeometry x="-0.2405" relative="1" as="geometry">
             <mxPoint y="-50" as="offset" />
           </mxGeometry>
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XHYiGmg5JfkTDbJsNiU6-53">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-53" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-54" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-16">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="1938" />
@@ -193,56 +193,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-8" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="ONLA1WShRm9VHiKbCH6p-7">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-8" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="ONLA1WShRm9VHiKbCH6p-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
             <mxPoint x="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-10" target="ONLA1WShRm9VHiKbCH6p-12">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-10" target="ONLA1WShRm9VHiKbCH6p-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="183" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-12" target="ONLA1WShRm9VHiKbCH6p-14">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-12" target="ONLA1WShRm9VHiKbCH6p-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="183" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-14" target="ONLA1WShRm9VHiKbCH6p-16">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-14" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="183" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-16" target="ONLA1WShRm9VHiKbCH6p-26">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-16" target="ONLA1WShRm9VHiKbCH6p-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="183" y="1908" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-26" target="ONLA1WShRm9VHiKbCH6p-28">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-26" target="ONLA1WShRm9VHiKbCH6p-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-26" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-26" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="2048" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-28">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1847.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-28" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-28" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1908" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1870" as="sourcePoint" />
             <mxPoint x="490" y="1688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ONLA1WShRm9VHiKbCH6p-36">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="1798" />
@@ -251,61 +251,61 @@
             <mxPoint x="490" y="1798" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-31" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="ONLA1WShRm9VHiKbCH6p-30">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-31" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="ONLA1WShRm9VHiKbCH6p-30" vertex="1" connectable="0">
           <mxGeometry x="-0.2405" relative="1" as="geometry">
             <mxPoint y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ONLA1WShRm9VHiKbCH6p-36">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-36" target="ONLA1WShRm9VHiKbCH6p-38">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-36" target="ONLA1WShRm9VHiKbCH6p-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-36" value="发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-36" value="发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-38" target="ONLA1WShRm9VHiKbCH6p-40">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-38" target="ONLA1WShRm9VHiKbCH6p-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-38" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-38" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-40" target="ONLA1WShRm9VHiKbCH6p-42">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-40" target="ONLA1WShRm9VHiKbCH6p-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-40" value="脉冲神经元涉及部分复位以及神经元、突触参数的decay指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-40" value="脉冲神经元涉及部分复位以及神经元、突触参数的decay指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-42" target="ONLA1WShRm9VHiKbCH6p-44">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-42" target="ONLA1WShRm9VHiKbCH6p-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-42" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-42" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-46">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-44" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-44" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1908" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-48">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-46" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-46" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="2048" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-48">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="2218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向normalize模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向normalize模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="2188" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="949" y="2290" />
@@ -314,59 +314,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-50" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="ONLA1WShRm9VHiKbCH6p-49">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-50" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="ONLA1WShRm9VHiKbCH6p-49" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-53">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-52" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-52" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="889" y="2188" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-53" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-53" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="889" y="2048" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-56" target="ONLA1WShRm9VHiKbCH6p-57">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-56" target="ONLA1WShRm9VHiKbCH6p-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-56" value="接收SNN发放指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-56" value="接收SNN发放指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-57" target="ONLA1WShRm9VHiKbCH6p-59">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-57" target="ONLA1WShRm9VHiKbCH6p-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-57" value="根据指令信息执行PRE、POST计算" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-57" value="根据指令信息执行PRE、POST计算" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-59" target="ONLA1WShRm9VHiKbCH6p-61">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-59" target="ONLA1WShRm9VHiKbCH6p-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-59" value="提取trace、weight信息，并输入PE计算单元" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-59" value="提取trace、weight信息，并输入PE计算单元" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-61" target="ONLA1WShRm9VHiKbCH6p-63">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-61" target="ONLA1WShRm9VHiKbCH6p-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-61" target="ONLA1WShRm9VHiKbCH6p-59">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-61" target="ONLA1WShRm9VHiKbCH6p-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1640" y="640" />
-              <mxPoint x="1640" y="500" />
+              <mxPoint x="2008" y="500" />
+              <mxPoint x="2010" y="500" />
+              <mxPoint x="2010" y="580" />
+              <mxPoint x="1780" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-66" value="计算256/PE_NUM次" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ONLA1WShRm9VHiKbCH6p-65">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-66" value="计算256/PE_NUM次" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ONLA1WShRm9VHiKbCH6p-65" vertex="1" connectable="0">
           <mxGeometry x="0.0826" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-61" value="返回计算后权重，并对权重执行钳位、更新前迹pre" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-61" value="返回计算后权重，并对权重执行钳位、更新前迹pre" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1948" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-63" value="等待一次指令" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-63" value="等待一次指令" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1948" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
