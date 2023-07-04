@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T02:30:49.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Gt-rEvelClmnJdP5Jcox" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:25:29.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Dc-RJzYSPetuPyB_ompN" version="21.5.0" type="github">
   <diagram name="第 1 页" id="JrKbey2u1_kLuDOFIelw">
-    <mxGraphModel dx="1949" dy="2088" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="2055" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="u102qBGS11XwWjUROn_k-5" value="确认写入的数据地址" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="209" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BE4AsF_q5r6VH0jHuco4-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="BE4AsF_q5r6VH0jHuco4-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="191" y="-928" width="872" height="497" as="geometry" />
         </mxCell>
         <mxCell id="Gxnw8CeNviSoY9CujKul-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
@@ -36,10 +36,10 @@
         <mxCell id="Gxnw8CeNviSoY9CujKul-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;DRR_CTRL&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
           <mxGeometry x="54.33434650455927" y="229.79569892473117" width="437.3252279635259" height="224.45161290322582" as="geometry" />
         </mxCell>
-        <mxCell id="Gxnw8CeNviSoY9CujKul-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;input_reorganized&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
+        <mxCell id="Gxnw8CeNviSoY9CujKul-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;rg_read&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
           <mxGeometry x="67.58662613981764" y="251.17204301075267" width="410.8206686930091" height="64.12903225806451" as="geometry" />
         </mxCell>
-        <mxCell id="Gxnw8CeNviSoY9CujKul-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;output_reorganized&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
+        <mxCell id="Gxnw8CeNviSoY9CujKul-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;rg_write&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="BE4AsF_q5r6VH0jHuco4-1" vertex="1">
           <mxGeometry x="67.58662613981764" y="368.741935483871" width="410.8206686930091" height="64.12903225806451" as="geometry" />
         </mxCell>
         <mxCell id="Gxnw8CeNviSoY9CujKul-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.426;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="BE4AsF_q5r6VH0jHuco4-1" edge="1">
@@ -78,6 +78,44 @@
             <mxPoint x="498.2857142857143" y="400.22929032258065" as="sourcePoint" />
             <mxPoint x="683.8176291793314" y="399.9834623655915" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmyrYR9rkzJpmED611zt-2" target="LmyrYR9rkzJpmED611zt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-2" value="HPS &lt;br&gt;Avalon配置地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmyrYR9rkzJpmED611zt-3" target="LmyrYR9rkzJpmED611zt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-3" value="接收初始地址" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmyrYR9rkzJpmED611zt-5" target="LmyrYR9rkzJpmED611zt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-5" value="读取ddr数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="647" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmyrYR9rkzJpmED611zt-7" target="LmyrYR9rkzJpmED611zt-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-7" value="执行数据重排操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="787" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmyrYR9rkzJpmED611zt-9" target="LmyrYR9rkzJpmED611zt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="957" />
+              <mxPoint x="545" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LmyrYR9rkzJpmED611zt-9" value="重新写入&lt;br&gt;DDR数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="927" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
