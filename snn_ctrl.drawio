@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T03:37:19.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gyr6Q2cSj9HVYViHw8Lx" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T03:51:06.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OV4HDDtFhfDdTg72-V6a" version="22.1.18" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel dx="2569" dy="880" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3619" dy="1301" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-63" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="下一个时间步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-63" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
             <mxPoint x="-70" as="offset" />
           </mxGeometry>
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-3" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-57" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-3" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-57" vertex="1" connectable="0">
           <mxGeometry x="-0.3386" y="1" relative="1" as="geometry">
             <mxPoint y="39" as="offset" />
           </mxGeometry>
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-4" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-59" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-4" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-59" vertex="1" connectable="0">
           <mxGeometry x="-0.2405" relative="1" as="geometry">
             <mxPoint y="-50" as="offset" />
           </mxGeometry>
@@ -169,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XHYiGmg5JfkTDbJsNiU6-53" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="下一个输入脉冲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-53" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -474,46 +474,46 @@
         <mxCell id="mNBl5FdlkpwVqaLiXcc0-30" value="EXCITATORY_&lt;br&gt;COMPUTE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2595" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-48" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-48" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2383" y="1248" width="928.9999999999998" height="849.9999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-4" value="接收经接口模块&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-4" value="接收经接口模块&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-6" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-6" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-4" target="XAT5sxg-6XuNv7sa4jBB-6">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-4" target="XAT5sxg-6XuNv7sa4jBB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-8" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向存储单元发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-8" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向存储单元发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-6" target="XAT5sxg-6XuNv7sa4jBB-8">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-6" target="XAT5sxg-6XuNv7sa4jBB-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-10" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-10" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-8" target="XAT5sxg-6XuNv7sa4jBB-10">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-8" target="XAT5sxg-6XuNv7sa4jBB-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-14" value="记录发放神经元序号&lt;br&gt;向WEIGHT_MEM&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-14" value="记录发放神经元序号&lt;br&gt;向WEIGHT_MEM&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" y="560" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-10" target="XAT5sxg-6XuNv7sa4jBB-14">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-10" target="XAT5sxg-6XuNv7sa4jBB-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-16" value="将提取到相应的神经元info传递给STDP 执行ON_PRE计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-16" value="将提取到相应的神经元info传递给STDP 执行ON_PRE计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="103" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-14" target="XAT5sxg-6XuNv7sa4jBB-16">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-14" target="XAT5sxg-6XuNv7sa4jBB-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-18" value="接收STDP返回后权重值，向DELAY发放权重延迟" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-18" value="接收STDP返回后权重值，向DELAY发放权重延迟" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-14" target="XAT5sxg-6XuNv7sa4jBB-18">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-14" target="XAT5sxg-6XuNv7sa4jBB-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="279.9999999999998" y="605" />
@@ -521,12 +521,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-13" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XAT5sxg-6XuNv7sa4jBB-12">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-13" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XAT5sxg-6XuNv7sa4jBB-12" vertex="1" connectable="0">
           <mxGeometry x="-0.3386" y="1" relative="1" as="geometry">
             <mxPoint y="39" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-16" target="XAT5sxg-6XuNv7sa4jBB-18">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-16" target="XAT5sxg-6XuNv7sa4jBB-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="163" y="799.9999999999998" />
@@ -534,34 +534,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-20" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-20" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-18" target="XAT5sxg-6XuNv7sa4jBB-20">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-18" target="XAT5sxg-6XuNv7sa4jBB-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-22" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-22" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-20" target="XAT5sxg-6XuNv7sa4jBB-22">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-20" target="XAT5sxg-6XuNv7sa4jBB-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-26" value="记录发放神经元序号&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向WEIGHT_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRACE_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-26" value="记录发放神经元序号&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向WEIGHT_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRACE_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" y="260" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-22" target="XAT5sxg-6XuNv7sa4jBB-26">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-22" target="XAT5sxg-6XuNv7sa4jBB-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-28" value="将提取到相应的神经元info传递给STDP 执行ON_POST计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-28" value="将提取到相应的神经元info传递给STDP 执行ON_POST计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-26" target="XAT5sxg-6XuNv7sa4jBB-28">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-26" target="XAT5sxg-6XuNv7sa4jBB-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-30" value="脉冲神经元涉及部分复位和累加后发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-30" value="脉冲神经元涉及部分复位和累加后发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="349.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-26" target="XAT5sxg-6XuNv7sa4jBB-30">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-26" target="XAT5sxg-6XuNv7sa4jBB-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="279.9999999999998" y="310" />
@@ -569,36 +569,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-25" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XAT5sxg-6XuNv7sa4jBB-24">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-25" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XAT5sxg-6XuNv7sa4jBB-24" vertex="1" connectable="0">
           <mxGeometry x="-0.2405" relative="1" as="geometry">
             <mxPoint y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-28" target="XAT5sxg-6XuNv7sa4jBB-30">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-28" target="XAT5sxg-6XuNv7sa4jBB-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-32" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-32" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-30" target="XAT5sxg-6XuNv7sa4jBB-32">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-30" target="XAT5sxg-6XuNv7sa4jBB-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-34" value="脉冲神经元涉及部分复位以及神经元、突触参数的指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-34" value="脉冲神经元涉及部分复位以及神经元、突触参数的指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-32" target="XAT5sxg-6XuNv7sa4jBB-34">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-32" target="XAT5sxg-6XuNv7sa4jBB-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-36" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-36" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-34" target="XAT5sxg-6XuNv7sa4jBB-36">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-34" target="XAT5sxg-6XuNv7sa4jBB-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-38" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-38" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-38" target="XAT5sxg-6XuNv7sa4jBB-10">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-38" target="XAT5sxg-6XuNv7sa4jBB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="559.9999999999998" y="450" />
@@ -608,32 +608,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-2" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XAT5sxg-6XuNv7sa4jBB-1">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-2" value="next_time_step" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XAT5sxg-6XuNv7sa4jBB-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
             <mxPoint x="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-36" target="XAT5sxg-6XuNv7sa4jBB-38">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-36" target="XAT5sxg-6XuNv7sa4jBB-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-40" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-40" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-38" target="XAT5sxg-6XuNv7sa4jBB-40">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-38" target="XAT5sxg-6XuNv7sa4jBB-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-42">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="809.9999999999998" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-42" value="向归一化模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-42" value="向归一化模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="609.9999999999998" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-40" target="XAT5sxg-6XuNv7sa4jBB-42">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-40" target="XAT5sxg-6XuNv7sa4jBB-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-10">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="868.9999999999998" y="849.9999999999998" />
@@ -642,18 +642,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-44" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" vertex="1" connectable="0" parent="XAT5sxg-6XuNv7sa4jBB-43">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-44" value="new_spike_time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="XAT5sxg-6XuNv7sa4jBB-43" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-46" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-46" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="808.9999999999998" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-47" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="XAT5sxg-6XuNv7sa4jBB-48">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-47" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" vertex="1">
           <mxGeometry x="808.9999999999998" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XAT5sxg-6XuNv7sa4jBB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-47">
+        <mxCell id="XAT5sxg-6XuNv7sa4jBB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
