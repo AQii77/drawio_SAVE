@@ -1,336 +1,270 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T13:03:06.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l6euOwGpRtk6qAFI3bMK" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T08:46:16.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uAzpFZnlConkVsrX64Th" version="24.0.7" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel dx="1922" dy="1040" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1225" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="590" />
-              <mxPoint x="680" y="650" />
-              <mxPoint x="400" y="650" />
-              <mxPoint x="400" y="590" />
+              <mxPoint x="519" y="590" />
+              <mxPoint x="519" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="下一个时间步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-63" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-6" value="下一个时间步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="XHYiGmg5JfkTDbJsNiU6-63" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
-            <mxPoint x="-70" as="offset" />
+            <mxPoint x="-164" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-1" target="XHYiGmg5JfkTDbJsNiU6-2" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-1" target="XHYiGmg5JfkTDbJsNiU6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-1" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="248" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-1" value="接收经&lt;font face=&quot;Times New Roman&quot;&gt;TOP_CTRL_INF&lt;/font&gt;&lt;br&gt;解析的指令信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-2" target="XHYiGmg5JfkTDbJsNiU6-14" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-2" target="XHYiGmg5JfkTDbJsNiU6-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-2" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-2" value="判断&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt;模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-14" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-14" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;TRANS_INF&lt;/font&gt;发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-16" target="XHYiGmg5JfkTDbJsNiU6-18" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-16" target="XHYiGmg5JfkTDbJsNiU6-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-18" target="XHYiGmg5JfkTDbJsNiU6-20" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-18" target="XHYiGmg5JfkTDbJsNiU6-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-18" target="XHYiGmg5JfkTDbJsNiU6-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="745" />
-              <mxPoint x="400" y="870" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-18" value="记录发放神经元序号&lt;br&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;WEIGHT_MEM&lt;/font&gt;&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="700" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-3" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-57" vertex="1" connectable="0">
-          <mxGeometry x="-0.3386" y="1" relative="1" as="geometry">
-            <mxPoint y="39" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-18" value="记录发放神经元序号&lt;br&gt;向WEIGHT_MEM&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="700" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-20" target="XHYiGmg5JfkTDbJsNiU6-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="283" y="940" />
-              <mxPoint x="530" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-20" value="将提取到相应的神经元info传递给STDP 执行ON_PRE计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="248" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-22" target="XHYiGmg5JfkTDbJsNiU6-24" edge="1">
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-20" target="XHYiGmg5JfkTDbJsNiU6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-22" value="接收STDP返回后权重值，向DELAY发放权重延迟" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-20" value="将提取到相应的神经元&lt;font face=&quot;Times New Roman&quot;&gt;INFO&lt;/font&gt;传递给&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt; 执行&lt;font face=&quot;Times New Roman&quot;&gt;ON_PRE&lt;/font&gt;计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="252" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-24" target="XHYiGmg5JfkTDbJsNiU6-26" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-22" target="XHYiGmg5JfkTDbJsNiU6-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-24" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-22" value="接收&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt;返回后权重值，向&lt;font face=&quot;Times New Roman&quot;&gt;DELAY&lt;/font&gt;发放权重延迟" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-26" target="XHYiGmg5JfkTDbJsNiU6-28" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-24" target="XHYiGmg5JfkTDbJsNiU6-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-26" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-24" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-28" target="XHYiGmg5JfkTDbJsNiU6-30" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-26" target="XHYiGmg5JfkTDbJsNiU6-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-28" target="XHYiGmg5JfkTDbJsNiU6-32" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="447" y="450" />
-              <mxPoint x="447" y="170" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-26" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-4" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-59" vertex="1" connectable="0">
-          <mxGeometry x="-0.2405" relative="1" as="geometry">
-            <mxPoint y="-50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-28" value="记录发放神经元序号&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向WEIGHT_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRACE_MEM&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="400" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-30" target="XHYiGmg5JfkTDbJsNiU6-32" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-28" target="XHYiGmg5JfkTDbJsNiU6-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-30" value="将提取到相应的神经元info传递给STDP 执行ON_POST计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-28" value="记录发放神经元序号&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;WEIGHT_MEM&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;TRACE_MEM&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="400" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-32" target="XHYiGmg5JfkTDbJsNiU6-37" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-30" target="XHYiGmg5JfkTDbJsNiU6-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-32" value="脉冲神经元涉及部分复位和累加后发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-30" value="将提取到相应的神经元&lt;font face=&quot;Times New Roman&quot;&gt;INFO&lt;/font&gt;传递给&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt; 执行&lt;font face=&quot;Times New Roman&quot;&gt;ON_POST&lt;/font&gt;计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-37" target="XHYiGmg5JfkTDbJsNiU6-39" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-32" target="XHYiGmg5JfkTDbJsNiU6-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-37" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-32" value="脉冲神经元涉及部分复位和累加后发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="453" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-37" target="XHYiGmg5JfkTDbJsNiU6-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-37" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-39" target="XHYiGmg5JfkTDbJsNiU6-41" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-39" target="XHYiGmg5JfkTDbJsNiU6-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-39" value="脉冲神经元涉及部分复位以及神经元、突触参数的decay指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-39" value="脉冲神经元涉及部分复位以及神经元、突触参数延迟指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-41" target="XHYiGmg5JfkTDbJsNiU6-45" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-41" target="XHYiGmg5JfkTDbJsNiU6-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-41" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-41" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-47" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-45" target="XHYiGmg5JfkTDbJsNiU6-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-45" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-45" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-47" target="XHYiGmg5JfkTDbJsNiU6-49" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-47" target="XHYiGmg5JfkTDbJsNiU6-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-47" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-47" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="836" y="870" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49" target="XHYiGmg5JfkTDbJsNiU6-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-49" value="向normalize模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-49" value="向&lt;font face=&quot;Times New Roman&quot;&gt;NROM&lt;/font&gt;模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="895" y="957" />
-              <mxPoint x="232" y="957" />
-              <mxPoint x="232" y="590" />
+              <mxPoint x="219" y="995" />
+              <mxPoint x="219" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="下一个输入脉冲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="XHYiGmg5JfkTDbJsNiU6-53" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-2" value="下一个输入脉冲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="XHYiGmg5JfkTDbJsNiU6-53" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="67" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-54" edge="1">
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-51" target="XHYiGmg5JfkTDbJsNiU6-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-51" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="835" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-51" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="449" y="965" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XHYiGmg5JfkTDbJsNiU6-54" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="835" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="XHYiGmg5JfkTDbJsNiU6-54" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="638" y="965" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="571" y="1938" />
-              <mxPoint x="571" y="2027" />
-              <mxPoint x="412" y="2027" />
-              <mxPoint x="412" y="1938" />
+              <mxPoint x="483" y="1922" />
+              <mxPoint x="483" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-8" value="&lt;font color=&quot;#000000&quot;&gt;下一个时间步&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;" parent="ONLA1WShRm9VHiKbCH6p-7" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-8" value="&lt;font color=&quot;#000000&quot;&gt;下一个时间步&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="ONLA1WShRm9VHiKbCH6p-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5651" relative="1" as="geometry">
-            <mxPoint x="-158" y="9" as="offset" />
+            <mxPoint x="-110" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-10" target="ONLA1WShRm9VHiKbCH6p-12" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-10" target="ONLA1WShRm9VHiKbCH6p-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经TOP_CTRL_INF&lt;br&gt;解析的指令信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经&lt;font face=&quot;Times New Roman&quot;&gt;TOP_CTRL_INF&lt;/font&gt;&lt;br&gt;解析的指令信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-12" target="ONLA1WShRm9VHiKbCH6p-14" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-12" target="ONLA1WShRm9VHiKbCH6p-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断STDP模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt;模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-14" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-14" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向TRANS_INF发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;TRANS_INF&lt;/font&gt;发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-16" target="ONLA1WShRm9VHiKbCH6p-26" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-16" target="ONLA1WShRm9VHiKbCH6p-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="254" y="1908" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-16" value="接收脉冲并判断脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="254" y="1892" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-26" target="ONLA1WShRm9VHiKbCH6p-28" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-26" target="ONLA1WShRm9VHiKbCH6p-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-26" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="2048" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-26" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="430" y="2032" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1847.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-28" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="1908" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="1870" as="sourcePoint" />
-            <mxPoint x="490" y="1688" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="413" y="1798" />
-              <mxPoint x="413" y="1518" />
-            </Array>
-            <mxPoint x="490" y="1798" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-31" value="推理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="ONLA1WShRm9VHiKbCH6p-30" vertex="1" connectable="0">
-          <mxGeometry x="-0.2405" relative="1" as="geometry">
-            <mxPoint y="-50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1" source="ONLA1WShRm9VHiKbCH6p-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-36" target="ONLA1WShRm9VHiKbCH6p-38" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-36" target="ONLA1WShRm9VHiKbCH6p-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-36" value="发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-36" value="发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="430" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-38" target="ONLA1WShRm9VHiKbCH6p-40" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-38" target="ONLA1WShRm9VHiKbCH6p-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-38" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-38" value="等待抑制层推理完成，接收返回的抑制层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-40" target="ONLA1WShRm9VHiKbCH6p-42" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-40" target="ONLA1WShRm9VHiKbCH6p-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-40" value="脉冲神经元涉及部分复位以及神经元、突触参数的decay指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-40" value="脉冲神经元涉及部分复位以及神经元、突触参数延迟指令发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-42" target="ONLA1WShRm9VHiKbCH6p-44" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-42" target="ONLA1WShRm9VHiKbCH6p-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-42" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-42" value="记录兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-46" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-44" target="ONLA1WShRm9VHiKbCH6p-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-44" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="596" y="1908" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-44" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="596" y="1892" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-48" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-46" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="596" y="2048" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-46" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="596" y="2032" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-48" edge="1" target="ONLA1WShRm9VHiKbCH6p-52">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-48" target="ONLA1WShRm9VHiKbCH6p-52" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="2218" as="targetPoint" />
+            <mxPoint x="890" y="2192" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="588" y="2218" />
-              <mxPoint x="588" y="2218" />
+              <mxPoint x="588" y="2192" />
+              <mxPoint x="588" y="2192" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向normalize模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="596" y="2188" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向NORM模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="596" y="2162" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="504" y="2140" />
-              <mxPoint x="227" y="2140" />
-              <mxPoint x="227" y="1938" />
+              <mxPoint x="504" y="2124" />
+              <mxPoint x="239" y="2124" />
+              <mxPoint x="239" y="1922" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-50" value="下一个输入脉冲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="ONLA1WShRm9VHiKbCH6p-49" vertex="1" connectable="0">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-50" value="下一个输入脉冲" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="ONLA1WShRm9VHiKbCH6p-49" vertex="1" connectable="0">
           <mxGeometry x="-0.3244" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-53" edge="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-52" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="444" y="2188" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-52" value="等待下一个脉冲序列发放" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="444" y="2162" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-53" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="256" y="2188" width="120" height="60" as="geometry" />
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-53" value="完成当前指令训练" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="256" y="2162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ONLA1WShRm9VHiKbCH6p-56" target="ONLA1WShRm9VHiKbCH6p-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -659,6 +593,15 @@
         </mxCell>
         <mxCell id="XAT5sxg-6XuNv7sa4jBB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" target="ONLA1WShRm9VHiKbCH6p-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="1870" as="sourcePoint" />
+            <mxPoint x="490" y="1688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-28" value="等待推理完成，接收返回的兴奋层脉冲发放情况" style="whiteSpace=wrap;html=1;fillColor=default;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1769" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
