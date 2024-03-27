@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T08:46:16.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uAzpFZnlConkVsrX64Th" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:56:29.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="li-WbWRIFe_tLIPbvZky" version="24.1.0" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
-    <mxGraphModel dx="2382" dy="1225" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="857" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-18" value="记录发放神经元序号&lt;br&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;WEIGHT_MEM&lt;/font&gt;&lt;br&gt;发放读数据请求&lt;br&gt;向TRACE_MEM&lt;br&gt;发放读数据请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="252" y="700" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gLFj1DrOyn8dEr5xTRWF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-20" target="XHYiGmg5JfkTDbJsNiU6-22">
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-20" target="XHYiGmg5JfkTDbJsNiU6-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-20" value="将提取到相应的神经元&lt;font face=&quot;Times New Roman&quot;&gt;INFO&lt;/font&gt;传递给&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt; 执行&lt;font face=&quot;Times New Roman&quot;&gt;ON_PRE&lt;/font&gt;计算" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
@@ -119,7 +119,7 @@
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-47" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="636" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gLFj1DrOyn8dEr5xTRWF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49" target="XHYiGmg5JfkTDbJsNiU6-51">
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="XHYiGmg5JfkTDbJsNiU6-49" target="XHYiGmg5JfkTDbJsNiU6-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XHYiGmg5JfkTDbJsNiU6-49" value="向&lt;font face=&quot;Times New Roman&quot;&gt;NROM&lt;/font&gt;模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
@@ -190,7 +190,7 @@
         <mxCell id="ONLA1WShRm9VHiKbCH6p-26" value="发放权重延迟并发放推理指令" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="430" y="2032" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="ONLA1WShRm9VHiKbCH6p-36" edge="1" source="ONLA1WShRm9VHiKbCH6p-28">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ONLA1WShRm9VHiKbCH6p-28" target="ONLA1WShRm9VHiKbCH6p-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1730" as="sourcePoint" />
           </mxGeometry>
@@ -240,7 +240,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向NORM模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向&lt;font face=&quot;Times New Roman&quot;&gt;NORM&lt;/font&gt;模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="2162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
@@ -594,7 +594,7 @@
         <mxCell id="XAT5sxg-6XuNv7sa4jBB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="XAT5sxg-6XuNv7sa4jBB-48" source="XAT5sxg-6XuNv7sa4jBB-46" target="XAT5sxg-6XuNv7sa4jBB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gLFj1DrOyn8dEr5xTRWF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" edge="1" parent="1" target="ONLA1WShRm9VHiKbCH6p-28">
+        <mxCell id="gLFj1DrOyn8dEr5xTRWF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" target="ONLA1WShRm9VHiKbCH6p-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1870" as="sourcePoint" />
             <mxPoint x="490" y="1688" as="targetPoint" />
