@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T12:21:51.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R04pYmE9MZ4dQcDB0hAM" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T12:48:49.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GnKPP6UHmseQbEB8kBpX" version="24.0.5" type="github">
   <diagram name="第 1 页" id="L9LMITteTnlRZ2TkFZ2f">
     <mxGraphModel dx="1914" dy="976" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,19 +163,19 @@
         <mxCell id="ONLA1WShRm9VHiKbCH6p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-10" target="ONLA1WShRm9VHiKbCH6p-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经&lt;font face=&quot;Times New Roman&quot;&gt;TOP_CTRL_INF&lt;/font&gt;&lt;br&gt;解析的指令信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-10" value="接收经外部输入&lt;br&gt;指令信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1488" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-12" target="ONLA1WShRm9VHiKbCH6p-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断&lt;font face=&quot;Times New Roman&quot;&gt;STDP&lt;/font&gt;模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-12" value="判断关键模块&lt;br&gt;计算模式&lt;br&gt;并准备公用配置信息" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1628" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-14" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向&lt;font face=&quot;Times New Roman&quot;&gt;TRANS_INF&lt;/font&gt;发起脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
+        <mxCell id="ONLA1WShRm9VHiKbCH6p-14" value="配置信息初始化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向数据存储模块发起读脉冲请求" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="254" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-16" target="ONLA1WShRm9VHiKbCH6p-26" edge="1">
@@ -225,23 +225,11 @@
         <mxCell id="ONLA1WShRm9VHiKbCH6p-44" value="接收下一时刻脉冲判断是否为最后时刻" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="1892" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-48" edge="1">
+        <mxCell id="2AmYSoi78zpjpjCYx3SO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ONLA1WShRm9VHiKbCH6p-46" target="ONLA1WShRm9VHiKbCH6p-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-46" value="向外发放兴奋层、抑制层发放情况" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
           <mxGeometry x="596" y="2032" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-48" target="ONLA1WShRm9VHiKbCH6p-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="2192" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="588" y="2192" />
-              <mxPoint x="588" y="2192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ONLA1WShRm9VHiKbCH6p-48" value="向&lt;font face=&quot;Times New Roman&quot;&gt;NORM&lt;/font&gt;模块发送指令，做归一化处理" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" vertex="1">
-          <mxGeometry x="596" y="2162" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONLA1WShRm9VHiKbCH6p-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25AE%258B%25E4%25BD%2593;" parent="1" source="ONLA1WShRm9VHiKbCH6p-52" target="ONLA1WShRm9VHiKbCH6p-16" edge="1">
           <mxGeometry relative="1" as="geometry">
